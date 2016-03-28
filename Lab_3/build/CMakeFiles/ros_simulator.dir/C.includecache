@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tsen/Desktop/mSinko/Lab_3/build/ros_simulator_cmdline.c
+config.h
+/home/tsen/Desktop/mSinko/Lab_3/build/config.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+getopt.h
+-
+ros_simulator_cmdline.h
+/home/tsen/Desktop/mSinko/Lab_3/build/ros_simulator_cmdline.h
+
+/home/tsen/Desktop/mSinko/Lab_3/build/ros_simulator_cmdline.h
+config.h
+/home/tsen/Desktop/mSinko/Lab_3/build/config.h
+stdio.h
+-
+

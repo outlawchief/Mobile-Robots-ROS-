@@ -1,0 +1,4 @@
+package "sim_twist_sub"
+version "1.0"
+purpose "Because I closed gedit"
+option "linearVelocity" - "v" double default="0.5" optional

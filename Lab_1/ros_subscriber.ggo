@@ -1,0 +1,4 @@
+package "ros_subscriber"
+version "1.0"
+purpose "Because I closed gedit"
+

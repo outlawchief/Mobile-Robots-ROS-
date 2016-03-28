@@ -1,0 +1,3 @@
+/home/tsen/Desktop/mSinko/Lab_3/build/CMakeFiles/gui-process.dir
+/home/tsen/Desktop/mSinko/Lab_3/build/CMakeFiles/ros_navigator.dir
+/home/tsen/Desktop/mSinko/Lab_3/build/CMakeFiles/ros_simulator.dir

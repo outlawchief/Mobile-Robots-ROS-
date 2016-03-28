@@ -1,0 +1,6 @@
+/tmp/guest-prMGeM/Desktop/mSinko/Lab_2/build/CMakeFiles/nav_empty_pub.dir
+/tmp/guest-prMGeM/Desktop/mSinko/Lab_2/build/CMakeFiles/nav_navi_pub.dir
+/tmp/guest-prMGeM/Desktop/mSinko/Lab_2/build/CMakeFiles/nav_odom_sub.dir
+/tmp/guest-prMGeM/Desktop/mSinko/Lab_2/build/CMakeFiles/sim_empty_sub.dir
+/tmp/guest-prMGeM/Desktop/mSinko/Lab_2/build/CMakeFiles/sim_odom_pub.dir
+/tmp/guest-prMGeM/Desktop/mSinko/Lab_2/build/CMakeFiles/sim_twist_sub.dir

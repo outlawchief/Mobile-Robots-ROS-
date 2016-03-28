@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/guest-prMGeM/Desktop/mSinko/Lab_2/build/nav_odom_sub_cmdline.c
+config.h
+/tmp/guest-prMGeM/Desktop/mSinko/Lab_2/build/config.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+getopt.h
+-
+nav_odom_sub_cmdline.h
+/tmp/guest-prMGeM/Desktop/mSinko/Lab_2/build/nav_odom_sub_cmdline.h
+
+/tmp/guest-prMGeM/Desktop/mSinko/Lab_2/build/nav_odom_sub_cmdline.h
+config.h
+/tmp/guest-prMGeM/Desktop/mSinko/Lab_2/build/config.h
+stdio.h
+-
+
